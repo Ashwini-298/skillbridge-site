@@ -26,11 +26,13 @@ SkillBridge is a modern and responsive React-based project designed to simulate 
 | 🔻 Footer  | Displays contact email and copyright info in the footer                    |
 
 🧠 React Concepts Practiced
+
 ✅ useState — for dynamic UI updates (like toggling content)
 
 ✅ useEffect — for timed messages (like motivational text on load)
 
 🛠️ Tech Stack
+
 *React JS
 
 *React Router DOM
@@ -44,6 +46,7 @@ SkillBridge is a modern and responsive React-based project designed to simulate 
 *Git & GitHub for version control
 
 🔧 Getting Started
+
 bash
 Copy
 Edit
