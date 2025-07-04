@@ -51,7 +51,7 @@ bash
 Copy
 Edit
 # Clone the project
-git clone https://github.com/your-username/skillbridge-site.git
+git clone [https://github.com/your-username/skillbridge-site.git](https://github.com/Ashwini-298/skillbridge-site)
 
 # Navigate into the folder
 cd skillbridge-site
